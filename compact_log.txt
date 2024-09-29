@@ -1,0 +1,2 @@
+2024-09-07T08:22:20.606063000Z : ready compact 'G:\Mumu\emulator\MuMuPlayer-12.0\vms\MuMuPlayer-12.0-0\data.vdi'
+this time is dry-run, total blocks: 28329, used blocks: 25508, fragment ratio: 0.0121138
