@@ -3,6 +3,9 @@ import threading
 import time
 import win32gui
 import win32con
+from mytool.mylog import MyLog
+
+log = MyLog()
 
 
 class client(threading.Thread):
@@ -28,16 +31,16 @@ class client(threading.Thread):
                     "0",
                 ],
             )
-            print("client started")
+            log.info("client started")
             time.sleep(1)
             handle = cls.get_handle("MuMu模拟器12")
             if handle:
-                print(f"handle found: {handle}")
+                log.info(f"handle found: {handle}")
                 # win32gui.ShowWindow(handle, win32con.SW_MINIMIZE)
                 # cls.move_to_second_desktop(handle)
                 # win32gui.ShowWindow(handle, win32con.SW_RESTORE)
         except Exception as e:
-            print(f"Error executing command: {e}")
+            log.info(f"Error executing command: {e}")
 
     @classmethod
     def start(cls):
@@ -48,13 +51,13 @@ class client(threading.Thread):
         if hasattr(cls, "process"):
             cls.process.kill()
             # cls.app=False
-            print("client stopped")
+            log.info("client stopped")
         pass
 
 
 if __name__ == "__main__":
     client.start()
     time.sleep(10)
-    print(client.app)
+    log.info(client.app)
     if client.app:
         client.stop()

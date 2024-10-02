@@ -4,6 +4,7 @@ from modules.taigu import taigu_run, log
 from time import sleep, strftime, time, localtime
 from pystray import Icon, Menu, MenuItem
 from PIL import Image
+import os
 
 # from mytool.console import Console
 
@@ -22,7 +23,7 @@ class Tuntunshu:
             MenuItem("Exit", self.exit),
         )
         self.icon = Icon("Tuntunshu", icon=Image.open("001.ico"), menu=menu)
-        self.stray = Thread(target=lambda: self.icon.run, name="stray")
+        self.stray = Thread(target=self.icon.run, name="stray")
         self.stray.daemon = True
         log.info("Tuntunshu is ready")
 
@@ -39,7 +40,7 @@ class Tuntunshu:
         pass
 
     def openlog(self):
-        self.show_console()
+        os.system("notepad.exe log.txt")
         pass
 
     def exit(self):
@@ -68,7 +69,7 @@ class Tuntunshu:
                 case "finished" | None:
                     self.time_to_run()
                 case "not_started":
-                    # log.info('last task is not finished yet')
+                    # log.info("last task is not finished yet")
                     pass
             sleep(1)
 

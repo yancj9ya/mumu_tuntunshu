@@ -7,8 +7,7 @@ log = MyLog()
 
 
 class Ocr:
-    par_handle = handle.get_handle("MuMu模拟器12")
-    child_handle = handle.get_handleEx(par_handle, "MuMuPlayer")
+
     text_recognizer = TextSystem()
 
     def __init__(self):
@@ -17,8 +16,10 @@ class Ocr:
     @classmethod
     def ocr(cls, area: list, debug=False) -> str:
         try:
+            par_handle = handle.get_handle("MuMu模拟器12")
+            child_handle = handle.get_handleEx(par_handle, "MuMuPlayer")
             # 直接获取灰度图像，减少一次颜色转换操作
-            ocr_img = screenshot.get_screenshot(cls.child_handle, area)
+            ocr_img = screenshot.get_screenshot(child_handle, area)
             # ocr_img = cv2.resize(ocr_img, (0,0), fx=2, fy=1)
             # _, ocr_img = cv2.threshold(ocr_img,127,255,cv2.THRESH_BINARY)
             if debug:

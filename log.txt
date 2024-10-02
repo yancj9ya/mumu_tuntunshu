@@ -1,0 +1,488 @@
+[info]2024-10-02 18:22:56: Creat timer for 301 minutes
+[info]2024-10-02 18:22:56: MuMu模拟器12 is stoped
+[info]2024-10-02 18:22:56: client stopped
+[info]2024-10-02 18:22:56: attr(client,kill_app):True
+[info]2024-10-02 18:22:56: next_time:301
+[info]2024-10-02 18:22:56: get_next_time:05:00:14
+[info]2024-10-02 18:22:56: jy_match:None
+[info]2024-10-02 18:22:55: par_handle:3541138,child_handle:2361356
+[error]2024-10-02 18:22:55: No match ui
+[info]2024-10-02 18:22:52: [in_jj]->[jy_out] 
+by path:['in_jj', 'jy_out']
+[info]2024-10-02 18:22:48: [home]->[jy_out] 
+by path:['home', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:22:35: [server_ui]->[jy_out] 
+by path:['server_ui', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:22:34: @SwitchUI: Current ui is server_ui,switch to jy_out
+[info]2024-10-02 18:22:32: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:30: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:28: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:27: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:25: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:23: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:22: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:20: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:18: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:16: @SwitchUI: Can't find current ui, handle:2361356
+[info]2024-10-02 18:22:15: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:22:13: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:22:11: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:22:09: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:22:08: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:22:06: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:22:03: handle found: 3541138
+[info]2024-10-02 18:22:02: client started
+[error]2024-10-02 18:22:02: MuMu模拟器12 is starting
+[info]2024-10-02 18:22:02: Creat timer for 0 minutes
+[info]2024-10-02 18:22:02: Tuntunshu is running
+[info]2024-10-02 18:22:02: Tuntunshu is running
+[info]2024-10-02 18:22:02: Tuntunshu is ready
+[info]2024-10-02 18:21:51: Creat timer for 302 minutes
+[info]2024-10-02 18:21:50: next_time:302
+[info]2024-10-02 18:21:50: get_next_time:05:01:20
+[info]2024-10-02 18:21:50: jy_match:None
+[info]2024-10-02 18:21:49: @SwitchUI: Current ui is jy_out,switch to jy_out
+[info]2024-10-02 18:21:49: MuMu模拟器12 is running
+[info]2024-10-02 18:21:49: Creat timer for 0 minutes
+[info]2024-10-02 18:21:49: Tuntunshu is running
+[info]2024-10-02 18:21:49: Tuntunshu is running
+[info]2024-10-02 18:21:49: Tuntunshu is ready
+[info]2024-10-02 18:19:22: get_next_time:1
+[info]2024-10-02 18:19:22: jy_match:None
+[info]2024-10-02 18:19:21: jy_match:None
+[info]2024-10-02 18:19:20: jy_match:None
+[info]2024-10-02 18:19:19: jy_match:None
+[info]2024-10-02 18:19:18: jy_match:None
+[info]2024-10-02 18:19:17: jy_match:None
+[info]2024-10-02 18:19:16: jy_match:None
+[info]2024-10-02 18:19:15: par_handle:1378824,child_handle:3410328
+[error]2024-10-02 18:19:15: No match ui
+[info]2024-10-02 18:19:13: [in_jj]->[jy_out] 
+by path:['in_jj', 'jy_out']
+[info]2024-10-02 18:19:08: [home]->[jy_out] 
+by path:['home', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:18:53: [server_ui]->[jy_out] 
+by path:['server_ui', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:18:52: @SwitchUI: Current ui is server_ui,switch to jy_out
+[info]2024-10-02 18:18:50: @SwitchUI: Can't find current ui, handle:3410328
+[info]2024-10-02 18:18:48: @SwitchUI: Can't find current ui, handle:3410328
+[info]2024-10-02 18:18:47: @SwitchUI: Can't find current ui, handle:3410328
+[info]2024-10-02 18:18:45: @SwitchUI: Can't find current ui, handle:3410328
+[info]2024-10-02 18:18:43: @SwitchUI: Can't find current ui, handle:3410328
+[info]2024-10-02 18:18:41: @SwitchUI: Can't find current ui, handle:3410328
+[info]2024-10-02 18:18:40: @SwitchUI: Can't find current ui, handle:3410328
+[info]2024-10-02 18:18:38: @SwitchUI: Can't find current ui, handle:3410328
+[info]2024-10-02 18:18:36: @SwitchUI: Can't find current ui, handle:3410328
+[info]2024-10-02 18:18:35: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:18:33: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:18:31: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:18:29: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:18:28: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:18:26: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:18:23: handle found: 1378824
+[info]2024-10-02 18:18:22: client started
+[error]2024-10-02 18:18:22: MuMu模拟器12 is starting
+[info]2024-10-02 18:18:22: Creat timer for 0 minutes
+[info]2024-10-02 18:18:22: Tuntunshu is running
+[info]2024-10-02 18:18:22: Tuntunshu is running
+[info]2024-10-02 18:18:22: Tuntunshu is ready
+[info]2024-10-02 18:17:22: Creat timer for 306 minutes
+[info]2024-10-02 18:17:21: next_time:306
+[info]2024-10-02 18:17:21: get_next_time:05:05:49
+[info]2024-10-02 18:17:21: jy_match:None
+[info]2024-10-02 18:17:20: @SwitchUI: Current ui is jy_out,switch to jy_out
+[info]2024-10-02 18:17:20: MuMu模拟器12 is running
+[info]2024-10-02 18:17:20: Creat timer for 0 minutes
+[info]2024-10-02 18:17:20: Tuntunshu is running
+[info]2024-10-02 18:17:20: Tuntunshu is running
+[info]2024-10-02 18:17:20: Tuntunshu is ready
+[info]2024-10-02 18:16:35: par_handle:2492772,child_handle:1902710
+[error]2024-10-02 18:16:35: No match ui
+[info]2024-10-02 18:16:34: par_handle:2492772,child_handle:1902710
+[error]2024-10-02 18:16:34: No match ui
+[info]2024-10-02 18:16:33: par_handle:2492772,child_handle:1902710
+[error]2024-10-02 18:16:33: No match ui
+[info]2024-10-02 18:16:32: par_handle:2492772,child_handle:1902710
+[error]2024-10-02 18:16:32: No match ui
+[info]2024-10-02 18:16:31: par_handle:2492772,child_handle:1902710
+[error]2024-10-02 18:16:31: No match ui
+[info]2024-10-02 18:16:30: par_handle:2492772,child_handle:1902710
+[error]2024-10-02 18:16:30: No match ui
+[info]2024-10-02 18:16:29: par_handle:2492772,child_handle:1902710
+[error]2024-10-02 18:16:29: No match ui
+[info]2024-10-02 18:16:28: par_handle:2492772,child_handle:1902710
+[error]2024-10-02 18:16:28: No match ui
+[info]2024-10-02 18:16:02: par_handle:2492772,child_handle:1902710
+[error]2024-10-02 18:16:02: No match ui
+[info]2024-10-02 18:16:00: [in_jj]->[jy_out] 
+by path:['in_jj', 'jy_out']
+[info]2024-10-02 18:15:55: [home]->[jy_out] 
+by path:['home', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:15:42: [server_ui]->[jy_out] 
+by path:['server_ui', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:15:41: @SwitchUI: Current ui is server_ui,switch to jy_out
+[info]2024-10-02 18:15:39: @SwitchUI: Can't find current ui, handle:1902710
+[info]2024-10-02 18:15:37: @SwitchUI: Can't find current ui, handle:1902710
+[info]2024-10-02 18:15:36: @SwitchUI: Can't find current ui, handle:1902710
+[info]2024-10-02 18:15:34: @SwitchUI: Can't find current ui, handle:1902710
+[info]2024-10-02 18:15:32: @SwitchUI: Can't find current ui, handle:1902710
+[info]2024-10-02 18:15:30: @SwitchUI: Can't find current ui, handle:1902710
+[info]2024-10-02 18:15:29: @SwitchUI: Can't find current ui, handle:1902710
+[info]2024-10-02 18:15:27: @SwitchUI: Can't find current ui, handle:1902710
+[info]2024-10-02 18:15:25: @SwitchUI: Can't find current ui, handle:1902710
+[info]2024-10-02 18:15:24: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:15:22: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:15:20: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:15:18: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:15:17: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:15:15: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:15:12: handle found: 2492772
+[info]2024-10-02 18:15:11: client started
+[error]2024-10-02 18:15:11: MuMu模拟器12 is starting
+[info]2024-10-02 18:15:11: Creat timer for 0 minutes
+[info]2024-10-02 18:15:11: Tuntunshu is running
+[info]2024-10-02 18:15:11: Tuntunshu is running
+[info]2024-10-02 18:15:11: Tuntunshu is ready
+[error]2024-10-02 18:12:55: No match ui
+[info]2024-10-02 18:12:52: [in_jj]->[jy_out] 
+by path:['in_jj', 'jy_out']
+[info]2024-10-02 18:12:48: [home]->[jy_out] 
+by path:['home', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:12:35: [server_ui]->[jy_out] 
+by path:['server_ui', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:12:33: @SwitchUI: Current ui is server_ui,switch to jy_out
+[info]2024-10-02 18:12:32: @SwitchUI: Can't find current ui, handle:1968140
+[info]2024-10-02 18:12:30: @SwitchUI: Can't find current ui, handle:1968140
+[info]2024-10-02 18:12:28: @SwitchUI: Can't find current ui, handle:1968140
+[info]2024-10-02 18:12:27: @SwitchUI: Can't find current ui, handle:1968140
+[info]2024-10-02 18:12:25: @SwitchUI: Can't find current ui, handle:1968140
+[info]2024-10-02 18:12:23: @SwitchUI: Can't find current ui, handle:1968140
+[info]2024-10-02 18:12:22: @SwitchUI: Can't find current ui, handle:1968140
+[info]2024-10-02 18:12:20: @SwitchUI: Can't find current ui, handle:1968140
+[info]2024-10-02 18:12:18: @SwitchUI: Can't find current ui, handle:1968140
+[info]2024-10-02 18:12:16: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:12:15: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:12:13: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:12:11: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:12:09: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:12:08: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:12:05: handle found: 5179728
+[info]2024-10-02 18:12:04: client started
+[error]2024-10-02 18:12:04: MuMu模拟器12 is starting
+[info]2024-10-02 18:12:04: Creat timer for 0 minutes
+[info]2024-10-02 18:12:04: Tuntunshu is running
+[info]2024-10-02 18:12:04: Tuntunshu is running
+[info]2024-10-02 18:12:04: Tuntunshu is ready
+[error]2024-10-02 18:03:18: No match ui
+[info]2024-10-02 18:03:15: [in_jj]->[jy_out] 
+by path:['in_jj', 'jy_out']
+[info]2024-10-02 18:03:11: [home]->[jy_out] 
+by path:['home', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:02:58: [server_ui]->[jy_out] 
+by path:['server_ui', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:02:57: @SwitchUI: Current ui is server_ui,switch to jy_out
+[info]2024-10-02 18:02:55: @SwitchUI: Can't find current ui, handle:1574084
+[info]2024-10-02 18:02:53: @SwitchUI: Can't find current ui, handle:1574084
+[info]2024-10-02 18:02:52: @SwitchUI: Can't find current ui, handle:1574084
+[info]2024-10-02 18:02:50: @SwitchUI: Can't find current ui, handle:1574084
+[info]2024-10-02 18:02:48: @SwitchUI: Can't find current ui, handle:1574084
+[info]2024-10-02 18:02:46: @SwitchUI: Can't find current ui, handle:1574084
+[info]2024-10-02 18:02:45: @SwitchUI: Can't find current ui, handle:1574084
+[info]2024-10-02 18:02:43: @SwitchUI: Can't find current ui, handle:1574084
+[info]2024-10-02 18:02:41: @SwitchUI: Can't find current ui, handle:1574084
+[info]2024-10-02 18:02:40: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:02:38: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:02:36: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:02:34: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:02:33: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:02:31: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:02:28: handle found: 2229126
+[info]2024-10-02 18:02:27: client started
+[error]2024-10-02 18:02:27: MuMu模拟器12 is starting
+[info]2024-10-02 18:02:27: Creat timer for 0 minutes
+[info]2024-10-02 18:02:27: Tuntunshu is running
+[info]2024-10-02 18:02:27: Tuntunshu is running
+[info]2024-10-02 18:02:27: Tuntunshu is ready
+[error]2024-10-02 18:02:20: No match ui
+[error]2024-10-02 18:01:49: No match ui
+[info]2024-10-02 18:01:47: [in_jj]->[jy_out] 
+by path:['in_jj', 'jy_out']
+[info]2024-10-02 18:01:42: [home]->[jy_out] 
+by path:['home', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:01:29: [server_ui]->[jy_out] 
+by path:['server_ui', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:01:28: @SwitchUI: Current ui is server_ui,switch to jy_out
+[info]2024-10-02 18:01:26: @SwitchUI: Can't find current ui, handle:1903080
+[info]2024-10-02 18:01:25: @SwitchUI: Can't find current ui, handle:1903080
+[info]2024-10-02 18:01:23: @SwitchUI: Can't find current ui, handle:1903080
+[info]2024-10-02 18:01:21: @SwitchUI: Can't find current ui, handle:1903080
+[info]2024-10-02 18:01:20: @SwitchUI: Can't find current ui, handle:1903080
+[info]2024-10-02 18:01:18: @SwitchUI: Can't find current ui, handle:1903080
+[info]2024-10-02 18:01:16: @SwitchUI: Can't find current ui, handle:1903080
+[info]2024-10-02 18:01:14: @SwitchUI: Can't find current ui, handle:1903080
+[info]2024-10-02 18:01:13: @SwitchUI: Can't find current ui, handle:1903080
+[info]2024-10-02 18:01:11: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:01:09: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:01:07: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:01:06: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:01:04: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:01:02: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 18:01:00: handle found: 1966982
+[info]2024-10-02 18:00:59: client started
+[error]2024-10-02 18:00:59: MuMu模拟器12 is starting
+[info]2024-10-02 18:00:59: Creat timer for 0 minutes
+[info]2024-10-02 18:00:59: Tuntunshu is running
+[info]2024-10-02 18:00:59: Tuntunshu is running
+[info]2024-10-02 18:00:59: Tuntunshu is ready
+[info]2024-10-02 18:00:49: Creat timer for 323 minutes
+[info]2024-10-02 18:00:49: next_time:323
+[info]2024-10-02 18:00:49: get_next_time:05:22:21
+[info]2024-10-02 18:00:47: [in_jj]->[jy_out] 
+by path:['in_jj', 'jy_out']
+[info]2024-10-02 18:00:44: [yyl]->[jy_out] 
+by path:['yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 18:00:43: @SwitchUI: Current ui is yyl,switch to jy_out
+[info]2024-10-02 18:00:43: MuMu模拟器12 is running
+[info]2024-10-02 18:00:43: Creat timer for 0 minutes
+[info]2024-10-02 18:00:43: Tuntunshu is running
+[info]2024-10-02 18:00:43: Tuntunshu is running
+[info]2024-10-02 18:00:43: Tuntunshu is ready
+[error]2024-10-02 17:57:34: No match ui
+[error]2024-10-02 17:57:33: No match ui
+[error]2024-10-02 17:57:32: No match ui
+[error]2024-10-02 17:57:31: No match ui
+[error]2024-10-02 17:57:30: No match ui
+[error]2024-10-02 17:57:29: No match ui
+[error]2024-10-02 17:57:28: No match ui
+[error]2024-10-02 17:57:27: No match ui
+[error]2024-10-02 17:57:26: No match ui
+[error]2024-10-02 17:57:25: No match ui
+[error]2024-10-02 17:57:24: No match ui
+[error]2024-10-02 17:57:23: No match ui
+[error]2024-10-02 17:57:22: No match ui
+[error]2024-10-02 17:57:21: No match ui
+[error]2024-10-02 17:57:20: No match ui
+[error]2024-10-02 17:57:19: No match ui
+[error]2024-10-02 17:57:18: No match ui
+[error]2024-10-02 17:57:17: No match ui
+[error]2024-10-02 17:57:16: No match ui
+[error]2024-10-02 17:57:15: No match ui
+[error]2024-10-02 17:57:14: No match ui
+[error]2024-10-02 17:57:13: No match ui
+[error]2024-10-02 17:57:12: No match ui
+[error]2024-10-02 17:57:11: No match ui
+[error]2024-10-02 17:57:10: No match ui
+[error]2024-10-02 17:57:09: No match ui
+[error]2024-10-02 17:57:08: No match ui
+[error]2024-10-02 17:57:07: No match ui
+[error]2024-10-02 17:57:06: No match ui
+[error]2024-10-02 17:57:05: No match ui
+[error]2024-10-02 17:57:04: No match ui
+[error]2024-10-02 17:57:03: No match ui
+[error]2024-10-02 17:57:02: No match ui
+[error]2024-10-02 17:57:01: No match ui
+[error]2024-10-02 17:57:00: No match ui
+[error]2024-10-02 17:56:59: No match ui
+[error]2024-10-02 17:56:58: No match ui
+[error]2024-10-02 17:56:57: No match ui
+[error]2024-10-02 17:56:56: No match ui
+[error]2024-10-02 17:56:55: No match ui
+[info]2024-10-02 17:56:53: [in_jj]->[jy_out] 
+by path:['in_jj', 'jy_out']
+[info]2024-10-02 17:56:48: [home]->[jy_out] 
+by path:['home', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 17:56:35: [server_ui]->[jy_out] 
+by path:['server_ui', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 17:56:34: @SwitchUI: Current ui is server_ui,switch to jy_out
+[info]2024-10-02 17:56:32: @SwitchUI: Can't find current ui, handle:723820
+[info]2024-10-02 17:56:31: @SwitchUI: Can't find current ui, handle:723820
+[info]2024-10-02 17:56:29: @SwitchUI: Can't find current ui, handle:723820
+[info]2024-10-02 17:56:27: @SwitchUI: Can't find current ui, handle:723820
+[info]2024-10-02 17:56:25: @SwitchUI: Can't find current ui, handle:723820
+[info]2024-10-02 17:56:24: @SwitchUI: Can't find current ui, handle:723820
+[info]2024-10-02 17:56:22: @SwitchUI: Can't find current ui, handle:723820
+[info]2024-10-02 17:56:20: @SwitchUI: Can't find current ui, handle:723820
+[info]2024-10-02 17:56:19: @SwitchUI: Can't find current ui, handle:723820
+[info]2024-10-02 17:56:17: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:56:15: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:56:13: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:56:12: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:56:10: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:56:08: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:56:05: handle found: 3145898
+[info]2024-10-02 17:56:04: client started
+[error]2024-10-02 17:56:04: MuMu模拟器12 is starting
+[info]2024-10-02 17:56:04: Creat timer for 0 minutes
+[info]2024-10-02 17:56:04: Tuntunshu is running
+[info]2024-10-02 17:56:04: Tuntunshu is running
+[info]2024-10-02 17:56:04: Tuntunshu is ready
+[info]2024-10-02 17:52:22: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:52:19: handle found: 4720382
+[info]2024-10-02 17:52:18: client started
+[error]2024-10-02 17:52:18: MuMu模拟器12 is starting
+[info]2024-10-02 17:52:18: Creat timer for 0 minutes
+[info]2024-10-02 17:52:18: Tuntunshu is running
+[info]2024-10-02 17:52:18: Tuntunshu is running
+[info]2024-10-02 17:52:18: Tuntunshu is ready
+[info]2024-10-02 17:49:20: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:18: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:16: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:15: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:13: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:11: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:09: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:08: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:06: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:04: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:02: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:49:01: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:59: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:57: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:55: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:54: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:52: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:50: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:49: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:47: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:45: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:43: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:42: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:40: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:38: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:36: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:35: @SwitchUI: Can't find current ui, handle:0
+[info]2024-10-02 17:48:32: handle found: 4524310
+[info]2024-10-02 17:48:31: client started
+[error]2024-10-02 17:48:31: MuMu模拟器12 is starting
+[info]2024-10-02 17:48:31: Creat timer for 0 minutes
+[info]2024-10-02 17:48:31: Tuntunshu is running
+[info]2024-10-02 17:48:31: Tuntunshu is running
+[info]2024-10-02 17:48:31: Tuntunshu is ready
+[info]2024-10-02 17:48:14: [server_ui]->[jy_out] 
+by path:['server_ui', 'home_top', 'yyl', 'in_jj', 'jy_out']
+[info]2024-10-02 17:48:13: @SwitchUI: Current ui is server_ui,switch to jy_out
+[info]2024-10-02 17:48:12: MuMu模拟器12 is running
+[info]2024-10-02 17:48:12: Creat timer for 0 minutes
+[info]2024-10-02 17:48:12: Tuntunshu is running
+[info]2024-10-02 17:48:12: Tuntunshu is running
+[info]2024-10-02 17:48:12: Tuntunshu is ready
+[info]2024-10-02 17:47:13: handle found: 2951814
+[info]2024-10-02 17:47:12: client started
+[error]2024-10-02 17:47:12: MuMu模拟器12 is starting
+[info]2024-10-02 17:47:12: Creat timer for 0 minutes
+[info]2024-10-02 17:47:12: Tuntunshu is running
+[info]2024-10-02 17:47:12: Tuntunshu is running
+[info]2024-10-02 17:47:12: Tuntunshu is ready
+[info]2024-10-02 17:43:44: handle found: 2493102
+[info]2024-10-02 17:43:43: client started
+[error]2024-10-02 17:43:43: MuMu模拟器12 is starting
+[info]2024-10-02 17:43:43: Creat timer for 0 minutes
+[info]2024-10-02 17:43:43: Tuntunshu is running
+[info]2024-10-02 17:43:43: Tuntunshu is running
+[info]2024-10-02 17:43:43: Tuntunshu is ready
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: @SwitchUI:
+ Can't find current ui,
+ switch to jy_out
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: handle found: 919718
+[info]2024-10-02 17:39:15: last task is not finished yet
+[info]2024-10-02 17:39:15: client started
+[error]2024-10-02 17:39:15: MuMu模拟器12 is starting
+[info]2024-10-02 17:39:15: Creat timer for 0 minutes
+[info]2024-10-02 17:39:15: Tuntunshu is running
+[info]2024-10-02 17:39:15: Tuntunshu is running
+[info]2024-10-02 17:39:15: Tuntunshu is ready

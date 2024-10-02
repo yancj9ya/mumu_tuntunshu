@@ -151,6 +151,7 @@ class Taigu(Mouse, ImgRec):
 
     def jy_match(self):
         res = self.match_img(kjy_ui)
+        log.info(f"jy_match:{res}")
         match res:
             case None:
                 # log.error("No match jy_ui")
@@ -173,7 +174,12 @@ class Taigu(Mouse, ImgRec):
                 self.find_max()
             case _:
                 log.error("No match ui")
-
+                # 可能是因为未能够获取到正确的窗口句柄，尝试重新获取窗口句柄
+                self.par_handle = self.get_handle("MuMu模拟器12")
+                self.child_handle = self.get_handleEx(self.par_handle, "MuMuPlayer")
+                log.info(
+                    f"par_handle:{self.par_handle},child_handle:{self.child_handle}"
+                )
         pass
 
 
@@ -184,7 +190,7 @@ def taigu_run():
         log.error("MuMu模拟器12 is starting")
         client.start()
         client.kill_app = True
-        sleep(10)
+        sleep(3)
     taigu = Taigu()
     while not taigu.page_switch.switch_to("jy_out"):
         sleep(1)
